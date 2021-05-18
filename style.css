@@ -1,11 +1,17 @@
 p {color: blue; text-align: center; 
      text-overflow: clip;
      background-color: aquamarine; 
+     background-image:url(m.jfif);
+     background-repeat: no-repeat;
+     background-position:  top right;
      font-size: 65px;
 padding: 10px;
 border: 55px solid green;
 margin: 50px; width: 500px; box-sizing: content-box; box-shadow: blueviolet;
 overflow: scroll ;} 
-h1 { color: red; font-size: 30px; background-color: yellow; padding: 15px; border: 30px solid blueviolet;
+h1 { color: red; font-size: 30px; background-color: yellow; background-image: url(m1.jfif);
+     background-repeat: no-repeat;
+     background-position: bottom right; padding: 15px; border: 30px solid blueviolet;
    margin: 40px; width: 200px; box-sizing: content-box; box-shadow: burlywood;
      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;} 
+
